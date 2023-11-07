@@ -1,0 +1,21 @@
+﻿nm_loja;nm_cidade;sg_estado;nm_regiao;nm_pais;sk_loja
+Loja 1;Rio Branco;AC;Norte;Brasil;1
+Loja 10;Curitiba;PR;Sul;Brasil;2
+Loja 11;Ribeirão Preto;SP;Sudeste;Brasil;3
+Loja 12;Rio de Janeiro;RJ;Sudeste;Brasil;4
+Loja 13;Campinas;SP;Sudeste;Brasil;5
+Loja 14;Salvador;BA;Nordeste;Brasil;6
+Loja 15;Aracaju;SE;Nordeste;Brasil;7
+Loja 16;Cabo Frio;RJ;Sudeste;Brasil;8
+Loja 17;São Paulo;SP;Sudeste;Brasil;9
+Loja 18;Florianópolis;SC;Sul;Brasil;10
+Loja 19;Manaus;AM;Norte;Brasil;11
+Loja 2;Rio Branco;AC;Norte;Brasil;12
+Loja 20;Rio Branco;AC;Norte;Brasil;13
+Loja 3;Londrina;PR;Sul;Brasil;14
+Loja 4;Sobradinho;DF;Centro-Oeste;Brasil;15
+Loja 5;Brasília;DF;Centro-Oeste;Brasil;16
+Loja 6;Comara;AP;Norte;Brasil;17
+Loja 7;Macapá;AP;Norte;Brasil;18
+Loja 8;Porto Alegre;RS;Sul;Brasil;19
+Loja 9;Brasília;DF;Centro-Oeste;Brasil;20

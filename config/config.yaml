@@ -1,0 +1,6 @@
+project-name: sales
+data-path: docs\
+original-path: original
+extract-path: raw
+transform-path: transform
+load-path: load
